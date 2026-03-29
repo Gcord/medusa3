@@ -14,6 +14,7 @@ export default function RootLayout(props: { children: React.ReactNode }) {
         <main className="relative">{props.children}</main>
         <h1>Hola soy joaquin</h1>
         <h2>tengo 19 anos</h2>
+        <></>
       </body>
     </html>
   )
