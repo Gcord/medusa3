@@ -12,6 +12,7 @@ export default function RootLayout(props: { children: React.ReactNode }) {
     <html lang="en" data-mode="light">
       <body>
         <main className="relative">{props.children}</main>
+        <h1>Hola soy joaquin</h1>
       </body>
     </html>
   )
